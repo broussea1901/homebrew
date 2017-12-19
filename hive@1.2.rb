@@ -1,7 +1,8 @@
-class Hive@1.2 < Formula
+class HiveAT12 < Formula
   desc "Hadoop-based data summarization, query, and analysis"
   homepage "https://hive.apache.org"
   url "https://www.apache.org/dyn/closer.cgi?path=hive/hive-1.2.2/apache-hive-1.2.2-bin.tar.gz"
+  version "1.2.2"
   sha256 "763b246a1a1ceeb815493d1e5e1d71836b0c5b9be1c4cd9c8d685565113771d1"
 
   bottle :unneeded
