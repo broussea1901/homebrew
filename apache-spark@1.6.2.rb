@@ -3,7 +3,7 @@ class ApacheSparkAT162 < Formula
   homepage "https://spark.apache.org"
   url "https://d3kbcqa49mib13.cloudfront.net/spark-1.6.2-bin-hadoop2.6.tgz"
   version "1.6.2"
-  sha256 "ed03ddfdc662cfa3d1b9a09173d1b5b343291f5609e56addf953132573476ee6"
+  sha256 "bddeccec0fb8ac9491cbb4e320467e9263bcc1caf9b45466164f8ae2d97de710"
   revision 1
 
   bottle :unneeded
