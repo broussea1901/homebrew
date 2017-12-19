@@ -1,4 +1,4 @@
-class Hive < Formula
+class Hive@1.2 < Formula
   desc "Hadoop-based data summarization, query, and analysis"
   homepage "https://hive.apache.org"
   url "https://www.apache.org/dyn/closer.cgi?path=hive/hive-1.2.2/apache-hive-1.2.2-bin.tar.gz"
